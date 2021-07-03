@@ -1,0 +1,1 @@
+JDBC kullanıldığı için db import edilemedi. Tabloları içeri import ederek veri tabanını kontrol edebilirsiniz.
